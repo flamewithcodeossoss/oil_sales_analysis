@@ -2,10 +2,6 @@
 
 A compact analytics project for retail packaged-oil sales. The repository contains data cleaning and EDA notebooks, baseline predictive modeling, a Streamlit dashboard for interactive exploration, and a small utility to generate an executive PDF report.
 
-## Short description
-
-Oil sales analysis: data cleaning, exploratory analysis, and baseline predictive modeling for a retail chain. Includes a Streamlit dashboard and an automated PDF report generator.
-
 ## Contents
 
 - `app.py` — Streamlit dashboard for interactive exploration (launch with `streamlit run app.py`).
